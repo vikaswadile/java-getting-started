@@ -48,7 +48,7 @@
         <!-- Release repository -->
         <repository>
             <id>nexus-releases</id>
-            <url>http://nexus:8081/repository/mvn-repo/</url>
+            <url>http://nexus:8081/repository/maven-releases/</url>
         </repository>
 
         <!-- Snapshot repository -->
